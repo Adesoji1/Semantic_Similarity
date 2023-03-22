@@ -16,8 +16,8 @@ Given a text and a reason, predict if text satisfies the reason. You can use the
 
 [https://drive.google.com/drive/folders/1HInfR5Sspv-k3rMPgJyXjXiJJEoCyOtY?usp=sharing](https://drive.google.com/drive/folders/1HInfR5Sspv-k3rMPgJyXjXiJJEoCyOtY?usp=sharing)
 
-# **SOlution Below**
-The python scripts in this repository addresses the issues below. Run on Google colab, script can be found here [here](https://colab.research.google.com/drive/1QStZaOSnlBo2ct3p9gPAmtW4ehPWqkdK?usp=sharing)
+# **Solution Below**
+The python scripts in this repository addresses the issues below. Run on Google colab, script can be found [here](https://colab.research.google.com/drive/1QStZaOSnlBo2ct3p9gPAmtW4ehPWqkdK?usp=sharing)
 
 1. Required packages
 2. Label class Imbalance
